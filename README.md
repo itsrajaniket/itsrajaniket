@@ -1,37 +1,121 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**itsrajaniket/itsrajaniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ ANIKET RAJ ✨
 
-Here are some ideas to get you started:
+<p><em>🎓 Transitioned from Physics & Electronics into full‑stack development  
+🚀 Backend‑focused JavaScript developer with a passion for safe, scalable code  
+📚 Self‑taught coder sharing beginner‑friendly resources and rapid learning hacks  
+⚡ Exploring javascript & WebAssembly for high‑performance web apps  
+🌐 Open to collaboration, building impactful projects together!
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/letscodehi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsaniketraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aniket_repo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketrajid@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsrajaniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsrajaniket&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔭 I'm currently working on
+
+<div align="center"><p>💼 Currently working on an open‑source project to simplify API integrations  
+🔍 Focused on backend development and building scalable solutions  
+📈 Documenting my journey through daily coding practice and public learning posts
+</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>🎯 Strengthening JavaScript & Node.js for backend mastery 📖 Exploring TypeScript for safer, scalable applications
+📖 Deepening backend mastery with JavaScript & Node.js  
+🛠 Exploring cloud architectures and DevOps workflows for scalable deployments  
+✍️ Documenting my self‑taught journey to help beginners learn step‑by‑step
+</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>💡 Technical upskilling in JavaScript & backend design
+🎨 Building visual, mnemonic‑rich tools for rapid learning and sharing</p></div>
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/itsrajaniket/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsrajaniket&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsrajaniket&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrajaniket&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=itsrajaniket&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrajaniket&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&layout=compact&langs_count=10&theme=buefy"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=buefy&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'Aniket_repo' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Aniket_repo" /></a>
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🎨 Frontend**
+
+`React` • `HTML5` • `CSS3` • `Next.js` • `Tailwind` • `Angular`
+
+**⚙️ Backend**
+
+`Node.js` • `Express` • `Django` • `Spring` • `NestJS` • `SQLite` • `MongoDB` • `MySQL`
+
+**🚀 DevOps**
+
+`AWS` • `Docker` • `GitHub Actions`
+
+**💬 Languages**
+
+`JavaScript` • `TypeScript` • `Java` • `C++` • `C`
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/itsrajaniket"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/itsaniketraj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/Aniket_repo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** aniketrajid@gmail.com
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
