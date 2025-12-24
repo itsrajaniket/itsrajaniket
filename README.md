@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ ANIKET RAJ ✨
+# 🌟 Welcome to ANIKET RAJ's Profile 🌟
 
 <p><em>🎓 Transitioned from Physics & Electronics into full‑stack development  
 🚀 Backend‑focused JavaScript developer with a passion for safe, scalable code  
@@ -9,9 +9,12 @@
 🌐 Open to collaboration, building impactful projects together!
 </em></p>
 
-<hr>
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
 </div>
+
+<hr>
 
 ## 🔭 I'm currently working on
 
@@ -45,28 +48,28 @@
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsrajaniket&theme=flat&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsrajaniket&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrajaniket&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrajaniket&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=buefy&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" />
 </div>
 
 ## 🐦 Latest Tweet
@@ -80,21 +83,21 @@
 
 <div align="center">
 
-**🎨 Frontend**
+### 🎨 Frontend
 
-`React` • `HTML5` • `CSS3` • `Next.js` • `Tailwind` • `Angular`
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&color=ff69b4">
 
-**⚙️ Backend**
+### ⚙️ Backend
 
-`Node.js` • `Express` • `Django` • `Spring` • `NestJS` • `SQLite` • `MongoDB` • `MySQL`
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
 
-**🚀 DevOps**
+### 🚀 DevOps
 
-`AWS` • `Docker` • `GitHub Actions`
+<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
 
-**💬 Languages**
+### 💬 Languages
 
-`JavaScript` • `TypeScript` • `Java` • `C++` • `C`
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500">
 
 </div>
 
@@ -102,7 +105,7 @@
 
 <div align="center">
 
-<a href="https://github.com/itsrajaniket"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/itsaniketraj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://x.com/Aniket_repo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
+<a href="https://github.com/itsrajaniket"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/itsaniketraj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/Aniket_repo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
 
 </div>
 
@@ -116,6 +119,11 @@
 
 <div align="center">
 
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+<!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=itsrajaniket&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/itsrajaniket?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 
 </div>
