@@ -2,7 +2,8 @@
 
 # 🌟 Welcome to ANIKET RAJ's Profile 🌟
 
-<p><em>🎓 Transitioned from Physics & Electronics into full‑stack development  
+<p><em>🎓 Transitioned from Physics & Electronics into full‑stack development   
+  
 🚀 Backend‑focused JavaScript developer with a passion for safe, scalable code  
 📚 Self‑taught coder sharing beginner‑friendly resources and rapid learning hacks  
 ⚡ Exploring javascript & WebAssembly for high‑performance web apps  
@@ -18,14 +19,17 @@
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>💼 Currently working on an open‑source project to simplify API integrations  
+<div align="center"><p>💼 Currently working on an open‑source project to simplify API integrations 
+  
 🔍 Focused on backend development and building scalable solutions  
 📈 Documenting my journey through daily coding practice and public learning posts
 </p></div>
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>🎯 Strengthening JavaScript & Node.js for backend mastery 📖 Exploring TypeScript for safer, scalable applications
+<div align="center"><p>🎯 Strengthening JavaScript & Node.js for backend mastery  
+  
+  📖 Exploring TypeScript for safer, scalable applications
 📖 Deepening backend mastery with JavaScript & Node.js  
 🛠 Exploring cloud architectures and DevOps workflows for scalable deployments  
 ✍️ Documenting my self‑taught journey to help beginners learn step‑by‑step
