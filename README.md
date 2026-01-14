@@ -40,34 +40,33 @@
 <div align="center"><p>💡 Technical upskilling in JavaScript & backend design
 🎨 Building visual, mnemonic‑rich tools for rapid learning and sharing</p></div>
 
-## 👀 Visitor Count
+
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://profile-counter.glitch.me/itsrajaniket/count.svg" />
   <br>Thank you for visiting my profile! Come back soon!
-</p>
+</p> -->
 
-## 🏆 GitHub Trophies
+
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsrajaniket&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
-## 📊 GitHub Stats
+
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsrajaniket&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
-## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&layout=compact&langs_count=10&theme=radical"/>
-</div>
+</div> -->
 
 ## 🔥 Contribution Streak
 
@@ -76,12 +75,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" />
 </div>
 
-## 🐦 Latest Tweet
+
 
 <!-- ⚠️ Important: Replace 'Aniket_repo' with your actual Twitter username in the URL below -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Aniket_repo" /></a>
-</div>
+</div> -->
 
 ## 💻 Tech Stack
 
