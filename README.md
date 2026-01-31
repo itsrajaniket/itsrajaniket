@@ -116,9 +116,17 @@
 
 <div align="center">
 
-**Email:** aniketrajid@gmail.com
+### 👤 Contact Details
+
+**Name:** Aniket Raj  
+**Email:** [aniketrajid@gmail.com](mailto:aniketrajid@gmail.com)  
+**Portfolio:** [itsrajaniket.github.io/Modern-Portfolio-Website](https://itsrajaniket.github.io/Modern-Portfolio-Website)  
+**LinkedIn:** [linkedin.com/in/itsaniketraj](https://linkedin.com/in/itsaniketraj)  
+**GitHub:** [github.com/itsrajaniket](https://github.com/itsrajaniket)  
+**LeetCode:** [leetcode.com/u/ANIKET0591/](https://leetcode.com/u/ANIKET0591/)
 
 </div>
+
 
 <div align="center">
 
