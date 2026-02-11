@@ -73,7 +73,8 @@
 
 <!-- ⚠️ Important: Replace 'itsrajaniket' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false&v=1" />
 </div>
 
 
