@@ -78,6 +78,13 @@
 </div>
 
 
+## 🟣 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsrajaniket&theme=github-dark&hide_border=true%22%20width=%2295%%22%20/%3E" />
+</p>
+
+---
+
 
 <!-- ⚠️ Important: Replace 'Aniket_repo' with your actual Twitter username in the URL below -->
 <!-- <div align="center">
