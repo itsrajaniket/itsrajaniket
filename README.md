@@ -91,6 +91,9 @@
   <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Aniket_repo" /></a>
 </div> -->
 
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://github.com/itsrajaniket/itsrajaniket/blob/main/Aniket-Arsenal.png" />
 ## 💻 Tech Stack
 
 <div align="center">
