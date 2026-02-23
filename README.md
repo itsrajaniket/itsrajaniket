@@ -34,7 +34,7 @@
 * 🌐 Open to collaboration—let's build impactful projects together!
 
 ---
-
+<div align="center">
 ## 🚀 What I'm Up To
 
 | 🔭 Currently Working On | 🌱 Currently Learning |
@@ -46,7 +46,7 @@
 ---
 
 ## 💻 Tech Stack
-
+<div align="center">
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
