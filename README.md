@@ -44,7 +44,7 @@
 | ✍️ Documenting my self-taught journey for beginners | 🛠 Cloud architectures and DevOps workflows |
 
 ---
-
+<!--
 ## 💻 Tech Stack
 <div align="center">
 <details open>
@@ -80,6 +80,56 @@
 </details>
 
 <img src="https://github.com/itsrajaniket/itsrajaniket/blob/main/Aniket-Arsenal.png" />
+-->
+## 💻 Tech Stack & Arsenal
+
+<div align="center">
+
+> My daily coding environment and the technologies I use to bring ideas to life.
+
+<br>
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&color=61DAFB&logoColor=20232A">
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&color=E34F26&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&color=1572B6&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js&color=black&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&color=06B6D4&logoColor=white">
+
+
+<br>
+
+### ⚙️ Backend & Databases
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=339933&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express&color=000000&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/-NestJS-05122A?style=for-the-badge&logo=nestjs&color=E0234E&logoColor=white">
+
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&color=47A248&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&color=4479A1&logoColor=white">
+
+<br>
+
+### 🚀 DevOps
+<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws&color=232F3E&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&color=2496ED&logoColor=white">
+<img src="https://img.shields.io/badge/-GitHub_Actions-05122A?style=for-the-badge&logo=github-actions&color=2088FF&logoColor=white">
+
+<br>
+
+### 💬 Languages
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&color=3178C6&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=openjdk&color=ED8B00&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&color=00599C&logoColor=white">
+<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&color=A8B9CC&logoColor=white">
+
+<br><br>
+<img src="https://raw.githubusercontent.com/itsrajaniket/itsrajaniket/main/Aniket-Arsenal.png" width="80%" alt="Tech Arsenal" />
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
