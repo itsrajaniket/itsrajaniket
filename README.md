@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Transitioned from **Physics & Electronics** into full‑stack development.
-* 💻 Currently pursuing my **MCA** and actively building responsive projects in **JavaScript** and **React**.
+* 💻 Actively building responsive projects in **JavaScript** and **React**.
 * 🚀 Passionate about clean front-end interfaces, safe backend scalability, and writing efficient code.
 * 📈 Documenting my journey through daily coding practice (currently tackling the **#100DaysOfCode** challenge).
 * 📚 Self‑taught coder sharing beginner‑friendly resources and rapid learning hacks.
