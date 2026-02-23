@@ -1,8 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Aniket%20Raj&descAlignY=61&descAlign=62" />
+</div>
 
-# 🌟 Welcome to Aniket Raj's Profile 🌟
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
+
+
 
 <p align="center">
   <a href="mailto:aniketrajid@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
