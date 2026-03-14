@@ -134,8 +134,28 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="25%" />
+</div
+
+<div align="center"> -->
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajaniket&theme=radical&hide_border=false" 
+    alt="GitHub Streak Stats"
+    height="180"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajaniket&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    alt="Top Languages"
+    height="180"
+  />
+
 </div>
 
 <br>
