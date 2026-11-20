@@ -212,16 +212,20 @@
 
 ---
 
+
+
 ## 🏅 Certifications
 
 <div align="center">
 
-| 🎖️ Certificate | 🏢 Issuer | 📅 Year |
+| 🎖️ Certificate | 🏢 Issuer | 📅 Issued |
 |:---|:---|:---:|
-| Software Engineering & Agile Development | Infosys | 2026 |
-| JavaScript Algorithms & Data Structures (v9) | freeCodeCamp | 2026 |
-| Basics of Python | Infosys | 2026 |
-| 5-Star JavaScript + Problem Solving | HackerRank | — |
+| **AWS Certified Cloud Practitioner (CLF-C02)** | <img src="https://img.icons8.com/color/24/amazon-web-services.png" width="24" height="18" valign="middle"/> Amazon Web Services | Aug 2026 |
+| **AWS Certified AI Practitioner (AIF-C01)** | <img src="https://img.icons8.com/color/24/amazon-web-services.png" width="24" height="18" valign="middle"/> Amazon Web Services | Jul 2026 |
+| **Software Engineering & Agile Development** | <img src="https://cdn.simpleicons.org/infosys/007CC3" width="22" height="18" valign="middle"/> Infosys | Apr 2026 |
+| **Basics of Python** | <img src="https://cdn.simpleicons.org/infosys/007CC3" width="22" height="18" valign="middle"/> Infosys | Apr 2026 |
+| **JavaScript Algorithms & Data Structures (v9)** | <img src="https://cdn.simpleicons.org/freecodecamp/006400" width="18" height="18" valign="middle"/> freeCodeCamp | Mar 2026 |
+| **5-Star JavaScript + Problem Solving** | <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="18" height="18" valign="middle"/> HackerRank | Mar 2026 |
 
 </div>
 
@@ -231,19 +235,24 @@
 
 ### 💬 My Philosophy
 
-> *"Every project I build solves a real problem, ships real code, and uses real tech — not tutorials, not clones."*
+> *"Every project I build solves a real problem, ships real code, and uses real tech not tutorials, not clones."*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=itsrajaniket&style=for-the-badge&color=00c8ff&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/itsrajaniket?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="Followers"/>
-
-<br/><br/>
-
-**Open to full-stack + AI-integrated roles · Immediate Joiner · [rajaniket.com](https://rajaniket.com)**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=itsrajaniket&style=for-the-badge&color=00c8ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/itsrajaniket?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="Followers"/>
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+[![Availability](https://img.shields.io/badge/Open_to_Work-Full--Stack_+_AI_Roles-00C853?style=flat-square&logo=target&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Immediate_Joiner-007CC3?style=flat-square)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajaniket.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://rajaniket.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
 
 </div>
